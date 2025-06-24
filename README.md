@@ -110,7 +110,7 @@ The interactive filter panel includes:
 
 - **Country Selector** – Focus on specific regions
 - **Date Range Filter** – Drill down into time periods
-- **Metric Type Toggle** – View cases or deaths dynamically
+- **Clear All Filters** 
 
 This enhances the dashboard's flexibility and exploration capabilities.
 
